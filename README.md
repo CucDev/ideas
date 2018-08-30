@@ -12,3 +12,4 @@ Para postular una idea deberás primero crear un archivo con extensión md que l
 - Beneficios
 - Stack tecnológico (tecnologías que piensas involucrar)
 
+Una vez termines de plantear tu idea envía un pull-request a este repo :)
