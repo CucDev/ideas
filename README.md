@@ -1,4 +1,4 @@
-# ideas
+# Ideas
 En este repo encontrarás ideas para proyectos a desarrollar como comunidad.
 
 # ¿Cómo postular una idea?
